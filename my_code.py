@@ -2,3 +2,9 @@
 #  
 
 # Write a program that asks for the user's name and another piece of information.Then prints a response using both of the inputs.
+
+name = input("Enter your name ")
+
+color = input("Enter your favorite color ") 
+
+print("Hello " + name + " I like " + color + " too") 
